@@ -1,0 +1,2 @@
+# VolCalculation-SPM
+The provided script can be added into the codebase of SPM8 or SPM12. Then you can directly run this script in your MATLAB runtime, the script will let you choose a .nii file and then will give you the volume of brain portrayed in that image.  You can even choose a masking image over the original nii file and the script will then calculate the volume of only the unmasked section.
